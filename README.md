@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Incoming B.Tech CSE student [2025-2029]
+- 🎓 Incoming B.Tech CSE student [2026-2030]
 - 💡 Obsessed with DSA, C programming & low-level systems
 - 💻 Currently sharpening my fundamentals in **C**, and diving into **C++** soon
 - 🚀 Dreaming of building something world-changing
