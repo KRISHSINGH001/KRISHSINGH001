@@ -14,7 +14,7 @@
 
 - 🎓 Incoming B.Tech CSE student [2026-2030]
 - 💡 Obsessed with DSA, C programming & low-level systems
-- 💻 Currently sharpening my fundamentals in **C**, and diving into **C++** soon
+- 💻 Currently sharpening my fundamentals in **C**, and diving into **C++** 
 - 🚀 Dreaming of building something world-changing
 - 🧠 Mindset: Learn → Build → Repeat
 
