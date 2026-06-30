@@ -2,11 +2,9 @@
 
 # Hey 👋 I'm Krish
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+Computers+from+First+Principles.;Systems+Programming.;Operating+Systems.;Computer+Architecture.;Building+Software+that+Lasts." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+Computers+from+First+Principles.;Systems+Programming.;Operating+Systems.;Computer+Architecture.;Building+Software+that+Lasts." />
 
-<p>
-Building software by understanding how computers work beneath the abstractions.
-</p>
+### Building software by understanding how computers work beneath the abstractions.
 
 <p>
 <a href="https://leetcode.com/u/KRISHSINGH01/">
@@ -20,35 +18,27 @@ Building software by understanding how computers work beneath the abstractions.
 <a href="mailto:Krishsinghch01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 </div>
 
 ---
 
-# 💻 About
+# 💻 About Me
 
 ```txt
-Name        : Krish
+Interested in
 
-Role        : Computer Science Student
+• Systems Programming
+• Operating Systems
+• Computer Architecture
+• Low-Level Development
 
-Focus       : Systems Programming
-              Operating Systems
-              Computer Architecture
-              Low-Level Development
+Currently building a strong foundation in Computer Science,
+writing clean code and solving problems.
 
-Languages   : C
-              C++
-              Java
-              Python
-
-Tools       : Git
-              Linux
-              VS Code
-
-Approach    : Understand before using.
+Long-term goal:
+Build software that is fast, reliable and deeply understood.
 ```
 
 ---
@@ -56,11 +46,55 @@ Approach    : Understand before using.
 # ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,linux,vscode"/>
 </p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<div
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KRISHSINGH001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHSINGH001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KRISHSINGH001&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧩 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/KRISHSINGH01?theme=dark&font=JetBrains+Mono&ext=contest"/>
+
+</div>
+
+---
+
+# 📬 Connect
+
+<p align="center">
+
+<a href="mailto:Krishsinghch01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KRISHSINGH001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/KRISHSINGH01/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
