@@ -1,89 +1,80 @@
 <div align="center">
 
-# Hey 👋, I'm Krish
+# Hey 👋 I'm Krish
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress.;Learning+Computer+Science+from+First+Principles.;C+%7C+C%2B%2B+%7C+Systems+Programming.;Building+One+Project+at+a+Time." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Computer+Science+Student.;Systems+Programming+Enthusiast.;C+%7C+C%2B%2B+%7C+Low-Level+Development.;Learning+Computer+Science+from+First+Principles." />
 
-<p>
+<p align="center">
+Building software by understanding how computers work beneath the abstractions.
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/KRISHSINGH01/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 <a href="https://github.com/KRISHSINGH001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:Krishsinghch01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/KRISHSINGH01/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👨🏻‍💻 About Me
 
-```cpp
-class Krish {
+```yaml
+Name: Krish
 
-public:
+Education:
+  Incoming B.Tech CSE Student (2026–2030)
 
-    string role = "Software Engineer in Progress";
+Focus:
+  • Systems Programming
+  • Low-Level Development
+  • Computer Architecture
+  • Operating Systems
+  • Data Structures & Algorithms
 
-    string education =
-        "Incoming B.Tech CSE Student";
+Currently:
+  • C
+  • C++
+  • Linux
 
-    vector<string> learning = {
-
-        "C",
-        "C++",
-        "Data Structures & Algorithms"
-
-    };
-
-    vector<string> interests = {
-
-        "Systems Programming",
-        "Operating Systems",
-        "Computer Architecture",
-        "Low-Level Development"
-
-    };
-
-    string philosophy =
-        "Understand before using.";
-
-};
+Mindset:
+  Understand → Build → Improve
 ```
 
 ---
 
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,vscode"/>
-
-</p>
-
----
-
-# 📈 GitHub Stats
+# ⚙️ Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KRISHSINGH001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHSINGH001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,vscode"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KRISHSINGH001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHSINGH001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -97,36 +88,54 @@ public:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/KRISHSINGH01?theme=dark&font=JetBrains+Mono&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/KRISHSINGH01?theme=dark&font=JetBrains+Mono"/>
 
 </div>
 
 ---
 
-# 🚀 Current Focus
+# 📈 GitHub Activity
 
-- 📚 Mastering C
-- ⚡ Learning Modern C++
-- 🧠 Data Structures & Algorithms
-- 💻 Building Projects
-- 🐧 Linux
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KRISHSINGH001&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📊 Profile Views
+# 🌱 Philosophy
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KRISHSINGH001&label=Profile%20Views&color=0e75b6&style=flat"/>
+> **"Good engineers don't just write code. They understand the machine that executes it."**
 
-</p>
+</div>
+
+---
+
+# 🤝 Connect
+
+<div align="center">
+
+<a href="mailto:Krishsinghch01@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KRISHSINGH001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/KRISHSINGH01/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## Learn → Build → Repeat
-
-*"Good engineers don't memorize abstractions—they understand them."*
+### Learn • Build • Repeat
 
 </div>
