@@ -1,67 +1,132 @@
-# Hey, I'm Krish 👋
+<div align="center">
 
-<h3 align="center">
-Aspiring Software Engineer • Systems Programming • C/C++ • Problem Solver
-</h3>
+# Hey 👋, I'm Krish
 
-<p align="center">
-Learning Computer Science from first principles.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress.;Learning+Computer+Science+from+First+Principles.;C+%7C+C%2B%2B+%7C+Systems+Programming.;Building+One+Project+at+a+Time." />
 
-<p align="center">
+<p>
+
+<a href="https://github.com/KRISHSINGH001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:Krishsinghch01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://leetcode.com/u/KRISHSINGH01/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://github.com/KRISHSINGH001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:Krishsinghch01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
 
----
-
-## 🧠 About Me
-
-- 🎓 Incoming B.Tech CSE Student (2026–2030)
-- 💻 Focused on C, C++, Java & Data Structures
-- ⚙️ Interested in Systems Programming, Operating Systems and Low-Level Development
-- 🚀 Building a strong Computer Science foundation before diving into advanced software engineering
-- 🧠 Learn → Build → Repeat
+</div>
 
 ---
 
-## ⚙️ Tech Stack
+# 👨‍💻 About Me
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+```cpp
+class Krish {
+
+public:
+
+    string role = "Software Engineer in Progress";
+
+    string education =
+        "Incoming B.Tech CSE Student";
+
+    vector<string> learning = {
+
+        "C",
+        "C++",
+        "Data Structures & Algorithms"
+
+    };
+
+    vector<string> interests = {
+
+        "Systems Programming",
+        "Operating Systems",
+        "Computer Architecture",
+        "Low-Level Development"
+
+    };
+
+    string philosophy =
+        "Understand before using.";
+
+};
+```
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KRISHSINGH001&theme=tokyonight&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHSINGH001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,vscode"/>
 
 </p>
 
 ---
 
-## 🧩 LeetCode
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KRISHSINGH001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHSINGH001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KRISHSINGH001&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧩 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/KRISHSINGH01?theme=dark&font=JetBrains+Mono&ext=contest"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+- 📚 Mastering C
+- ⚡ Learning Modern C++
+- 🧠 Data Structures & Algorithms
+- 💻 Building Projects
+- 🐧 Linux
+
+---
+
+# 📊 Profile Views
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/KRISHSINGH01?theme=dark&font=JetBrains+Mono"/>
+
+<img src="https://komarev.com/ghpvc/?username=KRISHSINGH001&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
+
+---
+
+<div align="center">
+
+## Learn → Build → Repeat
+
+*"Good engineers don't memorize abstractions—they understand them."*
+
+</div>
