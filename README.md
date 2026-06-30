@@ -29,10 +29,14 @@ Building software by understanding how computers work beneath the abstractions.
 ---
 
 # 👨🏻‍💻 About Me
+# 👨‍💻 About Me
 
+```cpp
 class Krish {
 public:
-    const string role = "Computer Science Student";
+    const string role =
+        "Computer Science Student";
+
     const string interests =
         "Systems Programming • Operating Systems • Computer Architecture";
 
@@ -42,6 +46,8 @@ public:
     const string philosophy =
         "Understand before using.";
 };
+```
+
 
 # ⚙️ Tech Stack
 
