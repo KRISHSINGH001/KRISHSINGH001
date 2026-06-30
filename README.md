@@ -30,29 +30,18 @@ Building software by understanding how computers work beneath the abstractions.
 
 # 👨🏻‍💻 About Me
 
-```yaml
-Name: Krish
+class Krish {
+public:
+    const string role = "Computer Science Student";
+    const string interests =
+        "Systems Programming • Operating Systems • Computer Architecture";
 
-Education:
-  Incoming B.Tech CSE Student (2026–2030)
+    const string languages =
+        "C • C++ • Python";
 
-Focus:
-  • Systems Programming
-  • Low-Level Development
-  • Computer Architecture
-  • Operating Systems
-  • Data Structures & Algorithms
-
-Currently:
-  • C
-  • C++
-  • Linux
-
-Mindset:
-  Understand → Build → Improve
-```
-
----
+    const string philosophy =
+        "Understand before using.";
+};
 
 # ⚙️ Tech Stack
 
